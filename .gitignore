@@ -1,0 +1,9 @@
+# VS Code settings
+.vscode
+
+# Python Virtual Environment
+.venv
+
+# Python bytecode files
+__pycache__/
+*.pyc
