@@ -9,7 +9,7 @@ Coleção dos Notebooks Python desenvolvidos ao longo do meu Projeto de Iniciaç
 - Código: TEP00118
 - Prof.: Diogo Ferreira de Lima e Silva
 - Monitor: Rodrigo Celso de Lima Porto
-- Projeto desenvolvido entre maio e dezembro de 2022
+- Projeto desenvolvido de maio a dezembro de 2022
 
 # Sumário
 
