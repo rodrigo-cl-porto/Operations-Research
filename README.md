@@ -1,6 +1,6 @@
 # Pesquisa Operacional com Python
 
-Coleção dos Notebooks Python desenvolvidos ao longo do meu Projeto de Iniciação à Docência (PID) com o intuito de ensinar aos discentes a utilizar as bibliotecas NetworkX e Pyomo, voltadas para Análise em Rede e Problemas de Optimização, respectivamente.
+Repositório dos Notebooks Python desenvolvidos ao longo do meu Projeto de Iniciação à Docência (PID) com o intuito de ensinar aos discentes a utilizar as bibliotecas NetworkX e Pyomo, voltadas para Análise em Rede e Problemas de Optimização, respectivamente.
 
 # Informações
 
