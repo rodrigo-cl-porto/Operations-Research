@@ -13,12 +13,12 @@ Repositório dos Notebooks Python desenvolvidos ao longo do meu Projeto de Inici
 
 # Sumário
 
-0. [Introdução ao Python](notebooks/0_introducao_ao_python.ipynb)
-0. [Árvore Geradora Mínima](notebooks/1_arvore_geradora_minima.ipynb)
-0. [Problema do Caminho Mínimo](notebooks/2_problema_do_caminho_minimo.ipynb)
-0. [Fluxo Máximo](notebooks/3_fluxo_maximo.ipynb)
-0. [Problema de Transporte](notebooks/4_problema_de_transporte.ipynb)
-0. [Problema de Transbordo](notebooks/5_problema_de_transbordo.ipynb)
-0. [Problema de Designação](notebooks/6_problema_de_designacao.ipynb)
-0. [Problema do Caminho Crítico](notebooks/7_problema_do_caminho_critico.ipynb)
-0. [Programação Não Linear](notebooks/8_programacao_nao_linear.ipynb)
+0. [Introdução ao Python](notebooks/0-introducao-ao-python.ipynb)
+0. [Árvore Geradora Mínima](notebooks/1-arvore-geradora-minima.ipynb)
+0. [Problema do Caminho Mínimo](notebooks/2-problema-do-caminho-minimo.ipynb)
+0. [Fluxo Máximo](notebooks/3-fluxo-maximo.ipynb)
+0. [Problema de Transporte](notebooks/4-problema-de-transporte.ipynb)
+0. [Problema de Transbordo](notebooks/5-problema-de-transbordo.ipynb)
+0. [Problema de Designação](notebooks/6-problema-de-designacao.ipynb)
+0. [Problema do Caminho Crítico](notebooks/7-problema-do-caminho-critico.ipynb)
+0. [Programação Não Linear](notebooks/8-programacao-nao-linear.ipynb)
