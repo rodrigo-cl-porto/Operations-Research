@@ -7,7 +7,7 @@ Repositório dos Notebooks Python desenvolvidos ao longo do meu Projeto de Inici
 - UNIVERSIDADE FEDERAL FLUMINENSE
 - Disciplina: Pesquisa Operacional 2
 - Código: TEP00118
-- Prof.: Diogo Ferreira de Lima e Silva
+- Prof.: [Diogo Ferreira de Lima e Silva](https://github.com/diogoflim)
 - Monitor: Rodrigo Celso de Lima Porto
 - Projeto desenvolvido de maio a dezembro de 2022
 
