@@ -8,7 +8,7 @@ Repositório dos Notebooks Python desenvolvidos ao longo do meu Projeto de Inici
 - Disciplina: Pesquisa Operacional 2
 - Código: TEP00118
 - Prof.: [Diogo Ferreira de Lima e Silva](https://github.com/diogoflim)
-- Monitor: Rodrigo Celso de Lima Porto
+- Monitor: [Rodrigo Celso de Lima Porto](https://github.com/rodrigo-cl-porto)
 - Projeto desenvolvido de maio a dezembro de 2022
 
 # Sumário
